@@ -1,2 +1,2 @@
 # jamms-late
-A simple Translate app
+A simple Translate app.
